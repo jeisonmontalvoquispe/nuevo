@@ -1,0 +1,175 @@
+.body
+{
+    background-size: cover;
+    background-position: center;
+    background-image: url(images/fondo1.webp);
+    height: 100vh;
+    margin: 0;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%
+}
+.parent2
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%
+}
+.div1
+{
+    width: 350px;
+    height: 350px;
+border: 7px solid violet;
+border-radius: 20px;
+background-size: cover;
+background-position: center;
+background-image: url(images/pastel\ 1.jpeg);
+display: flex; flex-wrap: wrap;
+
+
+}
+.div2
+{
+    width: 350px;
+    height: 350px;
+border: 7px solid violet;
+border-radius: 20px;
+background-size: cover;
+background-position: center;
+background-image: url(images/pastel\ 2.jpeg);
+display: flex; flex-wrap: wrap;
+
+}
+.div3
+{
+    width: 350px;
+    height: 350px;
+border: 7px solid violet;
+border-radius: 20px;
+background-size: cover;
+background-position: center;
+background-image: url(images/pastel\ 3.jpeg);
+display: flex; flex-wrap: wrap;
+
+}
+.div4
+{
+    width: 350x;
+    height: 350px;
+border: 7px solid violet;
+border-radius: 20px;
+background-size: cover;
+background-position: center;
+background-image: url(images/pastel\ 5.jpg);
+display: flex; flex-wrap: wrap;
+}
+.div5
+{
+    width: 350px;
+    height: 350px;
+    border: 7px solid purple;
+    border-radius: 20px;
+    background-color: blueviolet;
+    
+
+}
+.h1
+{
+    font-size: 60px;
+    color:red;
+}
+.div6
+{
+border: 7px solid violet;
+border-radius: 20px;
+font-size: 30px;
+text-align: center;
+background-color: yellow;
+color:gray;
+}
+.div7
+{
+border: 7px solid violet;
+border-radius: 20px;
+font-size: 30px;
+text-align: center;
+background-color: yellow;
+color:gray;
+}
+.div8
+{
+border: 7px solid violet;
+border-radius: 20px;
+font-size: 30px;
+text-align: center;
+background-color: yellow;
+color:gray;
+}
+.div9
+{
+border: 7px solid violet;
+border-radius: 20px;
+font-size: 30px;
+text-align: center;
+background-color: yellow;
+color:gray;
+}
+.div1:hover
+{
+border: 7px solid skyblue;
+border-radius: 20px;
+}
+.div2:hover
+{
+border: 7px solid skyblue;
+border-radius: 20px;
+}
+.div3:hover
+{
+border: 7px solid skyblue;
+border-radius: 20px;
+}
+.div4:hover
+{
+border: 7px solid skyblue;
+border-radius: 20px;
+}
+.div5:hover
+{
+border: 7px solid chocolate;
+border-radius: 20px;
+}
+.div6:hover
+{
+border: 7px solid royalblue;
+border-radius: 20px;
+}
+.div7:hover
+{
+border: 7px solid royalblue;
+border-radius: 20px;
+}
+.div8:hover
+{
+border: 7px solid royalblue;
+border-radius: 20px;
+}
+.div9:hover
+{
+border: 7px solid royalblue;
+border-radius: 20px;
+}
+.p
+{
+    font-size: 20px;
+}
+img
+{
+    width:100% ;
+    height:100% ;
+    left: 100%;
+    right: 100%;
+}
+
+        
